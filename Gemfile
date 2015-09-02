@@ -22,3 +22,5 @@ group :development, :test do
 	gem 'capybara', '~> 2.5.0'
 	gem 'capybara-email', '~> 2.4.0'
 end
+
+gem 'bootstrap-sass', '~> 3.3.5.1'
